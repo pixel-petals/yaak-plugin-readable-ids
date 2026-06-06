@@ -17,3 +17,7 @@
 !/src/**
 
 !/**/*.md
+
+!package.json
+!package-lock.json
+!tsconfig.json
