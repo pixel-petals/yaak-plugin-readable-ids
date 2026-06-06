@@ -1,0 +1,19 @@
+
+# Blacklist
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# ALL files & folders
+*
+
+# Whitelist
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+!/.gitattributes
+!/.gitignore
+!/.gitmodules
+!/LICENSE
+
+!/src
+!/src/**
+
+!/**/*.md
